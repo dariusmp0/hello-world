@@ -8,10 +8,10 @@ I need to find better ways to make use of my time than drinking and this is what
 While I was at San Quentin they had a coding program https://thelastmile.org. I never had an opportunity to apply.
 Now I am taking my rehabilitation into my own hands. I am interested in learning
 
-c 
-python 
-HTML5 and CSS3
-java-script
+c </br>
+python </br>
+HTML5 and CSS3 </br>
+java-script </br>
 php
 
 Always looking for pointers. So if anyone has any constructive
