@@ -5,7 +5,7 @@ Hello friends,
 
 I  aspire to be a competent web developer and programmer. Having a long held interest in computers, computing and the internet, I am looking to develop the skills necessary to contribute to and be part of the ever growing digital universe.
 
-I am looking to learn the following technologies:
+I am in the continuing process of learning the following technologies:
 
 c </br>
 python </br>
