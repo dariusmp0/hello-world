@@ -3,7 +3,7 @@ My first repository
 
 Hello friends,
 
-I  aspire to be a competent web developer and programmer. Having a long held interest in computers, computing and the internet, I am looking to develop the skills necessary to contribute to and be part of the ever growing digital universe.
+I  aspire to be a competent web developer and programmer. Having a long held interest in computers, computing and the internet, I am looking to develop the skills necessary to find employment, contribute to and be part of the ever growing digital universe.
 
 I am in the continuing process of learning the following technologies:
 
